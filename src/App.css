@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  padding: 10px;
+  background: rgb(60, 181, 218);
+  background: linear-gradient(183deg, rgba(60, 181, 218, 1) 0%, rgba(171, 219, 221, 1) 35%, rgba(224, 226, 220, 1) 66%, rgba(220, 218, 157, 1) 100%);
+  color: #000;
+  text-align: center;
+  font-family: Judson;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+h2{
+  font-size: 32px;
+}
